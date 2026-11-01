@@ -46,6 +46,7 @@ Civic Tech is the use of technology to empower citizens, improve government serv
 
 ## Open Government & Transparency
 
+- [Flock Locations](https://flocklocations.com/) – A public map of Flock Safety and ALPR camera locations.
 - [OpenGov Foundation](https://www.opengovfoundation.org/) – Builds tools to help governments become more open, responsive, and accountable.
 - [Open States](https://openstates.org/) – Track state-level legislation and lawmakers in the U.S.
 - [Sunlight Foundation (archived)](https://sunlightfoundation.com/) – Resources for increasing government transparency and accountability.
